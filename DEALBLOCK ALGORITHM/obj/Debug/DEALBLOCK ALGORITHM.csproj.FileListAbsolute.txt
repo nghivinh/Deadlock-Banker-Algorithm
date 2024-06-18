@@ -1,0 +1,358 @@
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM\DEALBLOCK ALGORITHM\bin\Debug\DEALBLOCK ALGORITHM.exe.config
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM\DEALBLOCK ALGORITHM\bin\Debug\DEALBLOCK ALGORITHM.exe
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM\DEALBLOCK ALGORITHM\bin\Debug\DEALBLOCK ALGORITHM.pdb
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csprojAssemblyReference.cache
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK_ALGORITHM.Form1.resources
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK_ALGORITHM.Properties.Resources.resources
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csproj.GenerateResource.cache
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csproj.CoreCompileInputs.cache
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.exe
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.pdb
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM\DEALBLOCK ALGORITHM\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csproj.CopyComplete
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 2)\DEALBLOCK ALGORITHM\bin\Debug\DEALBLOCK ALGORITHM.exe.config
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 2)\DEALBLOCK ALGORITHM\bin\Debug\DEALBLOCK ALGORITHM.exe
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 2)\DEALBLOCK ALGORITHM\bin\Debug\DEALBLOCK ALGORITHM.pdb
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 2)\DEALBLOCK ALGORITHM\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 2)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csprojAssemblyReference.cache
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 2)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK_ALGORITHM.Form1.resources
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 2)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK_ALGORITHM.Properties.Resources.resources
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 2)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csproj.GenerateResource.cache
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 2)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csproj.CoreCompileInputs.cache
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 2)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csproj.CopyComplete
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 2)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.exe
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 2)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.pdb
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 3)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csprojAssemblyReference.cache
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 3)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK_ALGORITHM.Form1.resources
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 3)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK_ALGORITHM.Properties.Resources.resources
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 3)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csproj.GenerateResource.cache
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 3)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csproj.CoreCompileInputs.cache
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 3)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.exe
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 3)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.pdb
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 3)\DEALBLOCK ALGORITHM\bin\Debug\DEALBLOCK ALGORITHM.exe.config
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 3)\DEALBLOCK ALGORITHM\bin\Debug\DEALBLOCK ALGORITHM.exe
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 3)\DEALBLOCK ALGORITHM\bin\Debug\DEALBLOCK ALGORITHM.pdb
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 3)\DEALBLOCK ALGORITHM\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 3)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csproj.CopyComplete
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 4)\DEALBLOCK ALGORITHM\bin\Debug\DEALBLOCK ALGORITHM.exe.config
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 4)\DEALBLOCK ALGORITHM\bin\Debug\DEALBLOCK ALGORITHM.exe
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 4)\DEALBLOCK ALGORITHM\bin\Debug\DEALBLOCK ALGORITHM.pdb
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 4)\DEALBLOCK ALGORITHM\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 4)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csprojAssemblyReference.cache
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 4)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK_ALGORITHM.Form1.resources
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 4)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK_ALGORITHM.Properties.Resources.resources
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 4)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csproj.GenerateResource.cache
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 4)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csproj.CoreCompileInputs.cache
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 4)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csproj.CopyComplete
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 4)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.exe
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 4)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.pdb
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 5)\DEALBLOCK ALGORITHM\bin\Debug\DEALBLOCK ALGORITHM.exe.config
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 5)\DEALBLOCK ALGORITHM\bin\Debug\DEALBLOCK ALGORITHM.exe
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 5)\DEALBLOCK ALGORITHM\bin\Debug\DEALBLOCK ALGORITHM.pdb
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 5)\DEALBLOCK ALGORITHM\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 5)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csprojAssemblyReference.cache
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 5)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK_ALGORITHM.Form1.resources
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 5)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK_ALGORITHM.Properties.Resources.resources
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 5)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csproj.GenerateResource.cache
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 5)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csproj.CoreCompileInputs.cache
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 5)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csproj.CopyComplete
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 5)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.exe
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 5)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.pdb
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 5)\DEALBLOCK ALGORITHM\bin\Debug\MindFusion.Charting.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 5)\DEALBLOCK ALGORITHM\bin\Debug\MindFusion.Charting.WinForms.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 5)\DEALBLOCK ALGORITHM\bin\Debug\MindFusion.Common.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 5)\DEALBLOCK ALGORITHM\bin\Debug\MindFusion.Licensing.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 5)\DEALBLOCK ALGORITHM\bin\Debug\MindFusion.Pdf.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 5)\DEALBLOCK ALGORITHM\bin\Debug\MindFusion.Svg.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 5)\DEALBLOCK ALGORITHM\bin\Debug\MindFusion.Scripting.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 5)\DEALBLOCK ALGORITHM\bin\Debug\MindFusion.Gauges.dll
+C:\Users\DELL\Desktop\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DEALBLOCK ALGORITHM.exe.config
+C:\Users\DELL\Desktop\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DEALBLOCK ALGORITHM.exe
+C:\Users\DELL\Desktop\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DEALBLOCK ALGORITHM.pdb
+C:\Users\DELL\Desktop\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\MindFusion.Scripting.dll
+C:\Users\DELL\Desktop\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\MindFusion.Gauges.dll
+C:\Users\DELL\Desktop\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK_ALGORITHM.Form1.resources
+C:\Users\DELL\Desktop\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK_ALGORITHM.Properties.Resources.resources
+C:\Users\DELL\Desktop\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csproj.CopyComplete
+C:\Users\DELL\Desktop\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.exe
+C:\Users\DELL\Desktop\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.pdb
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DEALBLOCK ALGORITHM.exe.config
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DEALBLOCK ALGORITHM.exe
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DEALBLOCK ALGORITHM.pdb
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\MindFusion.Charting.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\MindFusion.Charting.WinForms.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\MindFusion.Common.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\MindFusion.Licensing.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\MindFusion.Pdf.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\MindFusion.Svg.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\MindFusion.Scripting.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\MindFusion.Gauges.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK_ALGORITHM.Form1.resources
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK_ALGORITHM.Properties.Resources.resources
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csproj.GenerateResource.cache
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csproj.CoreCompileInputs.cache
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csproj.CopyComplete
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.exe
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.pdb
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csprojAssemblyReference.cache
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Images.v19.1.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.exe.licenses
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DEALBLOCK ALGORITHM.exe.config
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DEALBLOCK ALGORITHM.exe
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DEALBLOCK ALGORITHM.pdb
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\MindFusion.Charting.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\MindFusion.Charting.WinForms.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\MindFusion.Common.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\MindFusion.Licensing.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\MindFusion.Pdf.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\MindFusion.Svg.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\MindFusion.Scripting.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\MindFusion.Gauges.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Images.v19.1.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csprojAssemblyReference.cache
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK_ALGORITHM.Form1.resources
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK_ALGORITHM.Properties.Resources.resources
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csproj.GenerateResource.cache
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.exe.licenses
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csproj.CoreCompileInputs.cache
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.csproj.CopyComplete
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.exe
+D:\Năm 3\An ninh thông tin\DEALBLOCK ALGORITHM_NVNghi(Lần 6)\DEALBLOCK ALGORITHM\obj\Debug\DEALBLOCK ALGORITHM.pdb
